@@ -4,6 +4,7 @@
         "year": "2024",
         "role": "Desaign and Programmer",
         "description": "Rancang Bangun Prototype Pintu Otomatis Menggunakan Sensor Ultrasonik HCSR-04 dan DFPlayer Mini Mikrkontroler Arduino Uno",
-        "image": "images/Prototype.jpg"
+        "image": "images/Prototype.jpg",
+        "link": "https://example.com/solar-water"
     }
 ]
