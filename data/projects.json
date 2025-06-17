@@ -6,5 +6,13 @@
         "description": "Rancang Bangun Prototype Pintu Otomatis Menggunakan Sensor Ultrasonik HCSR-04 dan DFPlayer Mini Mikrkontroler Arduino Uno",
         "image": "images/Prototype.jpg",
         "link": "https://example.com/solar-water"
+    },
+    {
+    "title": "Line Followers Robot",
+        "year": "2023",
+        "role": "Design and Programmer",
+        "description": "Rancang Bangun Robot Line Followers Mikrokontroler",
+        "image": "images/Prototype.jpg",
+        "link": "https://example.com/solar-water"
     }
 ]
