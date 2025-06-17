@@ -2,7 +2,6 @@
     {
         "title": "Pintu Otomatis Menggunakan Sensor Ultrasonik Berbasis Arduino Uno",
         "year": "2024",
-        "partner": "Clean Water Initiative",
         "description": "Merancang Prototype Pintu Otomatis Menggunakan Sensor Ultrasonik HCSR04 dan DFPlayer Mini Dengan Mikrkontroler Arduino Uno",
-        "image": "images/project1.png",
+        "image": "images/Prototype.jpg",
     }
