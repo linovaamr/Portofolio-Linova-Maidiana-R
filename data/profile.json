@@ -21,7 +21,7 @@
 	},
     "skills": [
         {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 80},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 80},
+        {"name": "Teamwork", "icon": "fas fa-microchip", "level": 95},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
