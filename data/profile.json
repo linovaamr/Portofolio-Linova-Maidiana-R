@@ -29,6 +29,7 @@
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 90},
 	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
 	{"name": "Edit Video Photos", "icon": "fas fa-pen", "level": 90},
+	{"name": "Public Speaking", "icon": "fas fa-pen", "level": 85},
 	{"name": "Data Analysis", "icon": "fas fa-language", "level": 90}
     ]
 }
