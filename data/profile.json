@@ -28,6 +28,6 @@
         {"name": "Problem Solving", "icon": "fab fa-js", "level": 90},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 90},
 	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 90}
+	{"name": "Data Analysis", "icon": "fas fa-language", "level": 90}
     ]
 }
